@@ -1,1 +1,5 @@
 # DeepLearningFinal
+
+This project will utilize a Kaggle competition data set to analyze pictures of flowers and attempt to categorize them using computer vision and neural network techniques. Through exploratory data analysis we will get a sense of what the images in the data set look like, and what the expected categorizations might look like proportionally (based on the ground-truth labeling). The creation of effective data pipelines will be a focus of data preprocessing to decrease the amount of time model training will take, and we will also batch the data ahead of creating a model. This model will utilize a custom learning rate function, and other hyperparameter tuning can be utilized to ensure convergence to a minimal loss per epoch.
+
+The motivation from the project comes from my having a little bit of trouble moving through the steps of Week 3’s competition assignment for this course. I wanted to learn more about image data preprocessing and initialization and tuning of computer vision models.
